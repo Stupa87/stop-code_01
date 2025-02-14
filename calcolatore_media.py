@@ -87,6 +87,7 @@ while True:
             
     except:
         print("Attenzione voto non valido")
+ 
     
 
 
