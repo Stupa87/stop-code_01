@@ -1,18 +1,4 @@
 lista_voti = []
-lista_prova = [7, 9, 6, 8]
-
-# voto = input("Inserisci un voto ") 
-
-# try:
-#     voto_int = int(voto)
-    
-#     if voto_int > 0 and voto_int <= 10:
-#         lista_voti.append(voto_int)
-#         print(lista_voti)
-# except:
-#     voto = input("Inserisci un voto valido ")
-
-######## DEFINISCO LE FUNZIONI PER CALCOLARE LE MIN MAX E MEDIA ###############
 
 def calcola_media(voti):
     media = 0
